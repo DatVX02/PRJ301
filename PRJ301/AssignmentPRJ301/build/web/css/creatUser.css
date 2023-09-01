@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 15, 2023, 10:25:36 PM
+    Author     : DELL
+*/
+body{
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    color: #e02f2f;
+}
+
+label{
+    font-weight: bold;
+}
+
+.userID{
+    padding-bottom: 20px;
+}
+
+.fullname{
+    padding-bottom: 20px;
+}
+
+.password{
+    padding-bottom: 20px;
+}
+
+.roleID{
+    padding-bottom: 20px;
+}
+
+.address{
+    padding-bottom: 20px;
+}
+
+.address1{
+    width: 520px;
+}
+
+.birthday{
+    padding-bottom: 20px;
+}
+
+.phone{
+    padding-bottom: 20px;
+}
+
+.email{
+    padding-bottom: 20px;
+}
+
+.status{
+    padding-bottom: 20px;
+}
+
+.remem{
+    padding-bottom: 20px;
+}
+

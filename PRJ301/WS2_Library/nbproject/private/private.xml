@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ301/WS2_Library/web/login.jsp</file>
+            <file>file:/D:/PRJ301/WS2_Library/web/WEB-INF/web.xml</file>
+            <file>file:/D:/PRJ301/WS2_Library/src/java/pe/food/BookDTO.java</file>
+            <file>file:/D:/PRJ301/WS2_Library/src/java/pe/controller/MainController.java</file>
+            <file>file:/D:/PRJ301/WS2_Library/src/java/pe/controller/DeleteBookServlet.java</file>
+            <file>file:/D:/PRJ301/WS2_Library/src/java/pe/utils/DAO.java</file>
+            <file>file:/D:/PRJ301/WS2_Library/web/admin.jsp</file>
+            <file>file:/D:/PRJ301/WS2_Library/src/java/pe/controller/SearchBookServlet.java</file>
+            <file>file:/D:/PRJ301/WS2_Library/src/java/pe/utils/DBUtils.java</file>
+            <file>file:/D:/PRJ301/WS2_Library/src/java/pe/food/BookDAO.java</file>
+            <file>file:/D:/PRJ301/WS2_Library/src/java/pe/models/User.java</file>
+        </group>
+    </open-files>
+</project-private>
